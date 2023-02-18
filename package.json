@@ -1,0 +1,29 @@
+{
+	"name": "serverless-conditional-deployment",
+	"version": "1.0.8",
+	"description": "serverless plugin for environment based lambda deployment",
+	"main": "index.js",
+	"scripts": {
+		"test": "mocha"
+	},
+	"author": "",
+	"license": "MIT",
+	"keywords": [
+		"serverless",
+		"serverless-plugin",
+		"aws",
+		"nodejs",
+		"deployment"
+	],
+	"dependencies": {
+		"lodash": "^4.17.21"
+	},
+	"devDependencies": {
+		"mocha": "^10.2.0",
+		"sinon": "^15.0.1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/adeelahmadsiddique/serverless-conditional-deployment.git"
+	}
+}
