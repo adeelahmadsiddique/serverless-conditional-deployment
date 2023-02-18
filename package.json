@@ -1,13 +1,13 @@
 {
 	"name": "serverless-conditional-deployment",
-	"version": "1.0.9",
+	"version": "1.0.10",
 	"description": "serverless plugin for environment based lambda deployment",
 	"main": "index.js",
 	"scripts": {
 		"test": "mocha"
 	},
 	"author": "",
-	"license": "MIT",
+	"license": "Apache-2.0",
 	"keywords": [
 		"serverless",
 		"serverless-plugin",
