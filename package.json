@@ -1,6 +1,6 @@
 {
 	"name": "serverless-conditional-deployment",
-	"version": "1.0.8",
+	"version": "1.0.9",
 	"description": "serverless plugin for environment based lambda deployment",
 	"main": "index.js",
 	"scripts": {
